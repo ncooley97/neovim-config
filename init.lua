@@ -1,2 +1,3 @@
-require("cool.remap")
-require("cool.set")
+require("neovim-config.init")
+require("neovim-config.remap")
+require("neovim-config.set")
